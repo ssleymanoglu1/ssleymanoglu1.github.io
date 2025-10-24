@@ -1,3 +1,6 @@
 title: Selim Süleymanoğlu's Awesome Site
 description: A simple site built with GitHub Pages.
 theme: minima
+header_pages:
+  - index.md
+  - testing.md
