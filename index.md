@@ -1,2 +1,4 @@
-## About
+---
+title: About
+---
 Personal website first draft.
